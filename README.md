@@ -5,7 +5,7 @@ A set of syntax extensions for [React][react]:
   * `component Name { ... }` for component definition
   * `mixin Mixin` directive
   * `prop name type` for prop definition
-  * `>propName` and `@stateKey` accessors inside methods
+  * `>propName` and `@stateKey` accessors for component properties and state
 
 Example:
     
