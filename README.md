@@ -13,7 +13,7 @@ Example:
 
       mixin SomeMixin
 
-      prop caption string
+      prop caption required string
       prop active bool
       prop onClick func
 
